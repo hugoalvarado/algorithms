@@ -1,2 +1,2 @@
 # algorithms
-Different algorithm implementations
+Different algorithm implementations in Python
